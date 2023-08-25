@@ -47,8 +47,6 @@ This dashboard illustrates the following concepts:
 * In new sheet,create pivot table for top 5 customers based upon the sales.
 * In the next sheet, fill customer and product details based on the order ID using relevant formulas.
 * Create a new sheet called 'Dashboard' and create bar charts, line charts, slicers, timeline based on the previous worksheets.
-## Tableau Dashboard  
-![Tableau Dashboard](https://github.com/KaavyaVarshitha/Seattle-House-Sales/blob/main/Seattle%20house%20sales%20dashboard.png)
+## Excel Dashboard  
+![Excel Dashboard](https://github.com/KaavyaVarshitha/Coffee-Sales/blob/main/Coffee%20sales%20dashboard.png)
 
-## Dashboard Link
-(https://public.tableau.com/app/profile/kaavya.varshitha.raman.shantha/viz/SeattleHouseSales_16897732414660/SeattleHouseSales)
